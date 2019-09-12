@@ -17,7 +17,7 @@ public class experienceDTO {
 	int idseller;
 	int idadmin;
 	
-	
+	///vivalavita
 	
 	
 	
